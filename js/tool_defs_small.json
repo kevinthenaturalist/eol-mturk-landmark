@@ -1,0 +1,72 @@
+{
+    "J1": {
+        "kind": "point",
+        "anchor": "mouth",
+        "help": "Click the tip of the upper jaw."
+    },
+    "J2": {
+        "kind": "point",
+        "anchor": "mouth",
+        "help": "Click the intersection of the upper and lower jaw. (This is not simply where the skin meets!)"
+    },
+    "J3": {
+        "kind": "point",
+        "anchor": "mouth",
+        "help": "Click the tip of the lower jaw."
+    },
+    "E1": {
+        "kind": "point",
+        "anchor": "eye",
+        "help": "Click the most anterior (forward) margin of the eye at its widest diameter."
+    },
+    "E2": {
+        "kind": "point",
+        "anchor": "eye",
+        "help": "Click the most posterior (rearward) margin of the eye at its widest diameter."
+    },
+    "P1": {
+        "kind": "point",
+        "anchor": "pectoral-fin",
+        "help": "Click the base of the pectoral fin's top fin ray."
+    },
+    "P4": {
+        "kind": "point",
+        "anchor": "pectoral-fin",
+        "help": "Click the base of the pectoral fin's bottom fin ray."
+    },
+    "D1": {
+        "kind": "point",
+        "anchor": "dorsal-fin",
+        "help": "Click the base of the dorsal fin's anterior (forward) fin ray."
+    },
+    "D4": {
+        "kind": "point",
+        "anchor": "dorsal-fin",
+        "help": "Click the base of the dorsal fin's posterior (rearward) fin ray."
+    },
+    "C1": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the base of the caudal fin's uppermost principal fin ray."
+    },
+    "C4": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the base of the caudal fin's lowermost principal fin ray."
+    },
+    "C5": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the midpoint of the base of the tail (between C1 and C4)."
+    },
+    "A1": {
+        "kind": "point",
+        "anchor": "anal-fin",
+        "help": "Click the base of the anal fin's anterior (forward) fin ray."
+    },
+    "A4": {
+        "kind": "point",
+        "anchor": "anal-fin",
+        "help": "Click the base of the anal fin's posterior (rearward) fin ray."
+    }
+}
